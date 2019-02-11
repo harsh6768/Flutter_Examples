@@ -40,5 +40,5 @@ alt="" width="250" height="450" >
      
      flutter packages get
      
-<img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/camera_demo/Camera_1.jpeg"
-alt="" width="250" height="450" >
+.....................<img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/camera_demo/Camera_1.jpeg"
+alt="" width="250" height="450" >....................
