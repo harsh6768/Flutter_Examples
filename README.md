@@ -1,4 +1,4 @@
-## 1. Flutter_Firebase Project's Images
+## 1. Flutter_Firebase Project 
    ### In this project i have used firebase auth to signup and signed in the user.
  
   <ul>
@@ -17,4 +17,10 @@ alt="" width="250" height="450" >
 width="250" height="450" >..............
 <img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/flutter_firebase/flutter_firebase_5.jpeg" alt="" width="250" height="450" >..............
  <img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/flutter_firebase/flutter_firebase_6.jpeg"
+alt="" width="250" height="450" >
+.
+.
+.
+## 2. Camera Demo Project
+<img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/camera_demo/Camera_1.jpeg"
 alt="" width="250" height="450" >
