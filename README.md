@@ -1,13 +1,10 @@
 ## 1. Flutter_Firebase Project's Images
    ### In this project i have used firebase auth to signup and signed in the user.
  
-   Visit [Firebase](https://firebase.google.com/) for Authentication.
-   Visit [Dart Package](https://pub.dartlang.org/) website for all the plugins.
-   Visit [Futter.io](https://flutter.io/) for better understanding.
   <ul>
-  <li>Visit<a href="https://firebase.google.com/">Firebase</a>for more information</li>
-  <li>Visit<a href="https://pub.dartlang.org/">Firebase</a>website for all the plugins</li>
-  <li>Visit<a href="https://flutter.io/">Flutter.io</a>for more content</li>
+  <li>Visit <a href="https://firebase.google.com/"> Firebase </a> for more information</li>
+  <li>Visit <a href="https://pub.dartlang.org/"> Firebase </a> website for all the plugins</li>
+  <li>Visit <a href="https://flutter.io/"> Flutter.io </a> for more content</li>
 </ul>
 
 <img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/flutter_firebase/flutter_firebase_1.jpeg" alt="" 
