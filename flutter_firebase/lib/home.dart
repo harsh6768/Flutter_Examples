@@ -237,7 +237,7 @@ class _HomeState extends State<Home> {
   }
 
   //for search Snackbar
-  Widget seachSnackbar(BuildContext context){
+  void seachSnackbar(BuildContext context){
                     //showing SnackBar
           final snackBar = SnackBar(
             backgroundColor: Colors.green,
@@ -258,6 +258,7 @@ class _HomeState extends State<Home> {
   Widget onBottomNavigation(BuildContext context){
 
         return BottomNavigationBar(
+          
          
           //current index will manage wchich element need to be selected 
         currentIndex: _choice,
