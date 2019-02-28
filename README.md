@@ -31,6 +31,17 @@ alt="" width="250" height="450" >
 .
 .
 ## 1. Firebase_Todo Project
+
+ #### Add Firebase_Auth Dependency in pubspec.yaml
+    dependencies:
+       cloud_firestore:
+    
+ ##### Save file and It will automatically add the dependency. or Follow below mentioned instruction.
+       
+
+### You can install packages from the command line:
+     
+     flutter packages get
       
   <img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/flutter_todo/firebase_todo1.jpeg" alt="" 
 width="250" height="450" >..............
