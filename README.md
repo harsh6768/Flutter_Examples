@@ -32,7 +32,9 @@ alt="" width="250" height="450" >
 .
 ## 1. Firebase_Todo Project
 
- #### Add Firebase_Auth Dependency in pubspec.yaml
+ #### Update the Data Module is Pending.
+ 
+ #### Add Cloud_Firestore Dependency in pubspec.yaml
     dependencies:
        cloud_firestore:
     
