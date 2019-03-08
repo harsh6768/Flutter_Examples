@@ -1,3 +1,7 @@
+####
+
+#### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/octivia).Thanks!
+
 ## 1. Flutter_Firebase Project 
    ### In this project i have used firebase auth to signup and signed in the user.
  
