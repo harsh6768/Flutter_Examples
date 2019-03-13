@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/firestore_todo/firestore_todo.iml" filepath="$PROJECT_DIR$/firestore_todo/firestore_todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firestore_todo/firestore_todo_android.iml" filepath="$PROJECT_DIR$/firestore_todo/firestore_todo_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flutter project.iml" filepath="$PROJECT_DIR$/.idea/flutter project.iml" />
+    </modules>
+  </component>
+</project>
