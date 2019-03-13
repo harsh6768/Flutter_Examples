@@ -1,3 +1,7 @@
+####
+
+#### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/octivia).Thanks!
+
 ## 1. Flutter_Firebase Project 
    ### In this project i have used firebase auth to signup and signed in the user.
  
@@ -30,6 +34,26 @@ alt="" width="250" height="450" >
 .
 .
 .
+## 1. Firebase_Todo Project
+
+ #### Update the Data Module is Pending.
+ 
+ #### Add Cloud_Firestore Dependency in pubspec.yaml
+    dependencies:
+       cloud_firestore:
+    
+ ##### Save file and It will automatically add the dependency. or Follow below mentioned instruction.
+       
+
+### You can install packages from the command line:
+     
+     flutter packages get
+      
+  <img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/flutter_todo/firebase_todo1.jpeg" alt="" 
+width="250" height="450" >..............
+<img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/flutter_todo/firebase_todo2.jpeg" alt="" width="250" height="450" >..............
+ <img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/flutter_todo/firebase_todo3.jpeg"
+alt="" width="250" height="450" >
 ## 2. Camera Demo Project
 
 #### Add Image_Picker Dependency in pubspec.yaml
