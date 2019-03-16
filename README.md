@@ -2,7 +2,22 @@
 
 #### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/octivia).Thanks!
 ## 1. Timedim:
-      
+   
+   Add Images in pubspec.yaml
+   
+     assets:
+       - images/pica2.png
+       - images/pica3.png
+       - images/rooster.png
+       - images/plants/in_plants1.jpg
+       - images/plants/in_plants3.jpg
+       - images/plants/plant2.jpg
+       - images/plants/spices.png
+       - images/plants/in_plants2.jpg
+       - images/plants/in_plants4.jpg
+       - images/plants/in_plants6.png
+       - images/plants/in_plants7.png
+    
  <img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/timedim/weedon1.jpeg" alt="" 
 width="250" height="450" /> .............
  <img src="https://github.com/octivia/Flutter_Examples/blob/master/Upload%20Images/timedim/weedon2.jpeg" alt="" width="250" height="450"/> .............
