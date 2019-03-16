@@ -29,6 +29,9 @@
       <excludeFolder url="file://$MODULE_DIR$/staggered_grid_demo/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/staggered_grid_demo/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/staggered_grid_demo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/timedim/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/timedim/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/timedim/build" />
       <excludeFolder url="file://$MODULE_DIR$/view_clipper_demo/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/view_clipper_demo/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/view_clipper_demo/build" />
