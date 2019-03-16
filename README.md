@@ -3,8 +3,17 @@
 #### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/octivia).Thanks!
 ## 1. Timedim:
    
-   Add Images in pubspec.yaml
+ #### Add Firebase_Auth Dependency in pubspec.yaml
+    dependencies:
+       splashscreen:
+       
+
+### You can install packages from the command line:
+     
+     flutter packages get
    
+### Add Images in pubspec.yaml
+ 
      assets:
        - images/pica2.png
        - images/pica3.png
