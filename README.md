@@ -1,6 +1,6 @@
 ####
 
-#### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/octivia).Thanks!
+#### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/harsh6768).Thanks!
 ## 1. Timedim:
    
  #### Add Firebase_Auth Dependency in pubspec.yaml
